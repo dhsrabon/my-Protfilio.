@@ -60,7 +60,7 @@ export default function Hero() {
             {/* Greeting & Role */}
             <motion.div variants={childVariants} className="mb-3">
               <h2 className="text-xl md:text-2xl font-medium text-slate-300">
-                Hi, I'm <span className="font-bold text-white">Deluar Hossen Srabon</span>
+                Hi, I'm <span className="font-bold text-white">Rabbiul Islam</span>
               </h2>
               <h3 className="text-lg md:text-xl font-semibold text-cyan-400 mt-1">
                 Full-Stack Developer
@@ -128,8 +128,8 @@ export default function Hero() {
               {/* Profile Image Container */}
               <div className="relative w-full h-full p-2 rounded-full border-2 border-slate-700/50 bg-slate-900/80 backdrop-blur-sm overflow-hidden shadow-2xl">
                 <img 
-                  src="/IMG_0904.JPG" 
-                  alt="Deluar Hossen Srabon" 
+                  src="/rabbiul.png" 
+                  alt="Rabbiul Islam" 
                   className="w-full h-full object-cover rounded-full border border-slate-800"
                 />
               </div>

@@ -43,7 +43,7 @@ export default function AboutPage() {
               {/* ছবির অংশ */}
               <div className="absolute inset-0 bg-slate-900 border-2 border-slate-800 rounded-3xl overflow-hidden z-10 flex items-center justify-center">
                 <img 
-                  src="/IMG_0904.JPG" 
+                  src="/rabbiul.png" 
                   alt="My Profile Picture" 
                   className="w-full h-full object-cover" 
                 />
@@ -64,7 +64,7 @@ export default function AboutPage() {
             className="flex flex-col space-y-6"
           >
             <h2 className="text-3xl font-bold text-white">
-              Hi, I'm <span className="text-cyan-400">MD Deluar</span>
+              Hi, I'm <span className="text-cyan-400">Rabbiul Islam </span>
             </h2>
             <h3 className="text-xl text-slate-400 font-medium">
               Full-Stack Developer based in Bangladesh

@@ -9,7 +9,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="shrink-0">
             <Link href="/" className="text-2xl font-bold text-white tracking-wider">
-              Sra<span className="text-cyan-500">bon.</span>
+              Rabb<span className="text-cyan-500">iul.</span>
             </Link>
           </div>
           

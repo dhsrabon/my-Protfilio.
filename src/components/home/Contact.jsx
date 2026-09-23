@@ -78,7 +78,7 @@ const Contact = () => {
               <div>
                 <p className="text-sm text-slate-500 font-medium">Email Me At</p>
                 <a href="mailto:your.email@example.com" className="text-slate-300 hover:text-cyan-400 transition-colors text-lg">
-                  your.email@example.com
+                rabbiulislam5506@gmail.com
                 </a>
               </div>
             </div>
@@ -90,7 +90,7 @@ const Contact = () => {
               <div>
                 <p className="text-sm text-slate-500 font-medium">Location</p>
                 <p className="text-slate-300 text-lg">
-                  Dhaka, Bangladesh
+                  Niketon,Dhaka, Bangladesh
                 </p>
               </div>
             </div>
